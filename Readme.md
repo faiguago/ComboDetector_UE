@@ -1,4 +1,4 @@
-# Procedural HexMap Generator v0.4
+# Combo Detector Component v0.1
 
 <img src="/01.png?raw=true" width="600"/>
 
